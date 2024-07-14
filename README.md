@@ -26,9 +26,12 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or heroku. 
 
-### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
-### 2. <a href="https://replit.com/@samjame088/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE1 REPLIT-red" alt="Click Here to Get Pair-Code" width="90"></a>
-### 3. <a href="https://badboi-session-49378f29b531.herokuapp.com/"><img src="https://img.shields.io/badge/PAIR_CODE2 HEROKU-yellow" alt="Click Here to Get Pair-Code" width="90"></a>
+### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
+## `Generate Pair Code For Session`
+
+[`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
+
+[`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 ### 4. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
 
