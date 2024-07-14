@@ -12,15 +12,23 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____BADBOI+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/BADBOI-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBOI-v1/BADBOI-v2?color=blue&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBOI-v1/BADBOI-v2?color=red&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBOI-v1/BADBOI-v2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2"><img title="Open Source" src="https://img.shields.io/badge/Author-BADBOI%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2/"><img title="Size" src="https://img.shields.io/github/repo-size/BADBOI-v1/BADBOI-v2?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2BADBOI-v1%2FBLACK BADBOI-v1BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/BADBOI-v1/BADBOI-v2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/DeeCeeXxx/Venom-2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
-### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Venom-2" width="70"></a>
+### 2. <a href="https://replit.com/@samjame088/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
-### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)
 
 
 </br>
@@ -65,7 +73,7 @@ pkg install yarn
 git clone (copy and paste your forked repo link not mine to save changes your changes) 
 ```
 ```
-cd Venom-2
+cd BADBOI-v2
 ```
 ```
 yarn install
@@ -91,10 +99,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/DeeCeeXxx/Venom-2.git
+> git clone https://github.com/BADBOI-v1/BADBOI-v2.git
 ```
 ```
-> cd Venom-2
+> cd BADBOI-v2
 ```
 ```
 > yarn install
@@ -107,9 +115,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@HacktivistHive"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@HacktivistHive" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://wa.me/2348140825959"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   
+<a href='https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
