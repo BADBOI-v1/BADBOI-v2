@@ -1,11 +1,17 @@
-# VENOM-2
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# BADBOI-v2
+   ## Hi there 👋
+
+<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+<img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" />
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<p align="center">
+BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____BADBOI+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+</p>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
