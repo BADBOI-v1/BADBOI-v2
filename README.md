@@ -24,7 +24,7 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 <a href="https://github.com/BADBOI-v1/BADBOI-v2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 
-### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or heroku. 
+### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or render. 
 
 ### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
