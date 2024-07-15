@@ -149,3 +149,4 @@ npm i -g forever && forever index.js && forever save && forever logs
    ## `Special Thanks To`
 
 * [`📕 Emperordagoat..!!`](https://github.com/Emperordagoat)
+* * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
