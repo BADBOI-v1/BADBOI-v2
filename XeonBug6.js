@@ -2277,6 +2277,8 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😄
 ${readmore}
+T͟H͟A͟N͟K͟S͟ F͟O͟R͟ U͟S͟I͟N͟G͟ B͟A͟D͟-B͟O͟I͟ V͟2
+${readmore}
 ╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
 🕸 xandroid 
 🕸 xandroid2
@@ -2376,12 +2378,12 @@ ${readmore}
 🛑 listpdf
 
 ╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-▶️play
-▶️ytmp3
-▶️ytmp4
-▶️sound1 - sound161
+▶️ play
+▶️ ytmp3
+▶️ ytmp4
+▶️ sound1 - sound161
 
-made by lord emperor || BAD-BOI`
+> made by lord emperor || BAD-BOI`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
