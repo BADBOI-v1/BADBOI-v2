@@ -1307,8 +1307,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on David Cyril WhatsApp channel `,
-                            thumbnailUrl: 'https://i.imgur.com/fc01UOt.jpeg',
+                            body: `SCRIPT OF ${botname} is on kiddes scripts WhatsApp channel `,
+                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
