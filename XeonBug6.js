@@ -1203,11 +1203,16 @@ senddocu(buffer)
                 neww = performance.now()
                 oldd = performance.now()
                 respon = `
+		TESTING BADBOI-v2-BUG SPEED 
+  ${readmore}
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
 💻 Info Server
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 
+BADBOI-v2-BUG-CONNECTED SUCCESSFULLY 
+
+  ${readmore}
 _NodeJS Memory Usaage_
 ${Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v=>v.length)),' ')}: ${formatp(used[key])}`).join('\n')}
 
@@ -1223,7 +1228,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
