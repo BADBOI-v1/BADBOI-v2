@@ -1257,7 +1257,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `Bots Have Been Running For ${runtime(process.uptime())}`
+                let runtimetext = `𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙼𝙳 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝙾𝙽𝙻𝙸𝙽𝙴. 𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝚁𝚄𝙽𝚃𝙸𝙼𝙴`
+		BAD-BOI v2 Have Been Running For ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
@@ -1265,7 +1266,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://i.imgur.com/cKGh0kD.jpeg',
+                            thumbnailUrl: 'https://i.ibb.co/Dby2D94/x.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
