@@ -32,6 +32,8 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 [`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
 
 [`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
+
+829395
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
 ### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
