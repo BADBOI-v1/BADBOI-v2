@@ -164,7 +164,14 @@ npm i -g forever && forever index.js && forever save && forever logs
 |  Developer |
 
   </div>
+  <div align="center">
   
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+|----|
+| [  Lord No Name](https://github.com/Anime-King01) |
+|  Co-Developer |
+
+  </div>
    
   </br> 
 
