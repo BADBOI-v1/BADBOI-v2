@@ -33,7 +33,7 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 
 [`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 
-829395
+
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
 ### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
@@ -45,8 +45,8 @@ heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-*Add your Creds.json to Classic file
-* Create a new app at [Heroku](heroku.com)
+*Add your Creds.json to Session file
+* Create a new app at [Heroku](https://id.heroku.com/login)
 * Add Build packs
 * Connect your heroku with your github
 * Locate BADBOI-v2-BUG
