@@ -42,9 +42,14 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
+```
+```
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
+
 *Add your Creds.json to Session file
 * Create a new app at [Heroku](https://id.heroku.com/login)
 * Add Build packs
