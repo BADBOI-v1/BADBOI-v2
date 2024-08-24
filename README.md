@@ -188,6 +188,13 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 > npm start
 ```
+
+
+-------
+## ```YOUTUBE CHANNEL FOR TUTORIALS```
+
+ - [ Click ](https://youtube.com/@BADBOI-k2i?si=1_Ae2h9Kl9IbAo7E)
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
