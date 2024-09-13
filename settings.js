@@ -19,7 +19,7 @@ global.packname = 'Sticker By'
 global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '☠️'
 global.wm = "BADBOI HACKER Tech."
 
 //theme link
